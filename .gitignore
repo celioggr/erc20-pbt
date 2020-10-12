@@ -1,0 +1,14 @@
+__pycache__
+.history
+.hypothesis/
+tests/stateful/.hypothesis/
+tests/unittesting/test_tests.py
+scripts/interact.py
+build/
+reports/
+include/
+bin/
+lib/
+notes/
+env/
+tests/stateful/*/examples/
