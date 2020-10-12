@@ -117,6 +117,6 @@ Distributed under the Apache2.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* [Célio Rodrigues](https://github.com/cggro)
+* [Célio Rodrigues](https://github.com/celioggr)
 
 * [Eduardo Marques](https://github.com/edrdo)
